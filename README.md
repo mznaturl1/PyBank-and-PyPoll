@@ -25,6 +25,10 @@ Before starting the assignment, be sure to do the following:
   * An `analysis` folder that contains your text file that has the results from your analysis.
 
 * Push these changes to GitHub or GitLab.
+* 
+* 
+* ![revenue-per-lead](https://user-images.githubusercontent.com/117309455/213353791-ad9a1fab-9b86-46b1-986a-7998d0fa086d.png)
+
 
 ## PyBank Instructions
 
@@ -55,6 +59,10 @@ Your analysis should look similar to the following:
   ```
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+
+
+![Vote_counting](https://user-images.githubusercontent.com/117309455/213353844-87783e02-ea6f-4cde-952d-33b19fd1eadd.png)
 
 ## PyPoll Instructions
 
